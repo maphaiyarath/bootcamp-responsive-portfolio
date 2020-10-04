@@ -11,7 +11,13 @@ You can see the deployed app [here](https://maphaiyarath.github.io/bootcamp-resp
 * [Badges](#badges)
 
 ## Description
-wip
+to do:
+- this readme
+- add semantic tags
+- personalize about page
+- add pic of myself to about
+- style.css
+- footer
 
 ## Installation
 n/a
