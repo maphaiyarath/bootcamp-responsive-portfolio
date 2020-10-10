@@ -11,10 +11,9 @@ You can see the deployed app [here](https://maphaiyarath.github.io/bootcamp-resp
 * [Badges](#badges)
 
 ## Description
-to do:
-- this readme
-- add semantic tags
-- personalize about page
+This project focuses on responsive design. Depending on whatever size screen you are viewing my portfolio website on, it should render and seamlessly with the Bootstrap framework. I've made use of Bootstrap's layout components - such as containers, rows, and columns - to scale the contents of a page according to various screen widths.
+
+In regards to further development, I would replace the placeholder images and text with actual, meaningful content. I'm sure I'll revisit this once I've picked up a few more skills in bootcamp!
 
 ## Installation
 n/a
