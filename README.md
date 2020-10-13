@@ -1,6 +1,6 @@
-# 02 CSS and Bootstrap: Responsive Portfolio
+# CSS and Bootstrap: Responsive Portfolio
 
-You can see the deployed app [here](https://maphaiyarath.github.io/bootcamp-responsive-portfolio/).
+You can see the deployed app [here](https://maphaiyarath.github.io/responsive-portfolio/).
 
 ## Table of Contents
 * [Description](#description)
@@ -28,4 +28,4 @@ n/a
 This project is licensed under the MIT license.
 
 ## Badges
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/maphaiyarath/bootcamp-responsive-portfolio)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/maphaiyarath/responsive-portfolio)
